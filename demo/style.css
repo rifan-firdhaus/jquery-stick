@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+#sidebar {
+    float: left;
+    width: 25%;
+    padding: 20px;
+}
+
+#main {
+    width: 75%;
+    margin-left: 25%;
+    padding: 20px;
+}
+
+#second-sidebar {
+    background: #EEE;
+}
